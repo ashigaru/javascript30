@@ -1,0 +1,25 @@
+{
+  "name": "javascriptdrumkit_j30s01-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server 'src' --no-notify --no-ui --cwd 'src' --files 'index.html, styles/**/*'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asigaru/javascript30.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "pavel arkharov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asigaru/javascript30/issues"
+  },
+  "homepage": "https://github.com/asigaru/javascript30#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.10"
+  }
+}

@@ -1,0 +1,22 @@
+html {
+  background: darkcyan;
+}
+
+.page__header {
+  font-family: "Rubik light", Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+.list__item {
+  font-size: 1.2rem;
+  font-family: "Karla", Arial, Helvetica, sans-serif;
+  color: white;
+  text-decoration: none;
+}
+
+.list__link {
+  font-size: 1.2rem;
+  font-family: "Karla", Arial, Helvetica, sans-serif;
+  color: white;
+  text-decoration: none;
+}
